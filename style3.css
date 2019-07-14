@@ -1,0 +1,73 @@
+body{
+	margin:0 auto;
+	background-color:#cc99ff;
+}
+
+
+
+
+.h1{
+
+	
+	text-align: center;
+	color:yellow;
+	font-family: "Jokerman";
+	font-size:50px;
+	
+	
+}
+
+
+.menu {
+     background:#2eb82e;
+     padding: 20px 5px 5px ;
+
+
+}
+
+.menu a {
+
+	color: #d9d9d9;
+	text-decoration:none;
+	font-size: 30px;
+	font-family: "Times New Roman" ;
+   }
+
+
+
+.menu a:hover {
+
+color:#000066;
+
+
+}
+
+footer {
+padding: 6px 40px 6px 40px;
+background:#999999;
+font-family: "Lucida Sans Unicode";
+color:#444444;
+text-decoration:right;
+font-size:11px;
+}
+
+
+
+
+
+p{
+margin-right: 20px;
+margin-left:25px;
+font-family: "Georgia";
+font-size:27px;
+line-height: 19px;
+text-align:justify;
+}
+
+span {
+	color:#000;
+	font-size:15px;
+
+}
+
+}

@@ -1,0 +1,103 @@
+body{
+	background-color: #809fff;
+	margin: 0 auto;
+}
+
+
+
+.menu {
+     background:#2eb82e;
+     padding: 20px 5px 5px ;
+
+
+}
+
+.menu a {
+
+	color: #d9d9d9;
+	text-decoration:none;
+	font-size: 30px;
+	font-family: "Times New Roman" ;
+   }
+
+
+
+.menu a:hover {
+
+color:#000066;
+
+
+}
+
+footer {
+padding: 6px 40px 6px 40px;
+background:#999999;
+font-family: "Lucida Sans Unicode";
+color:#444444;
+text-decoration:right;
+font-size:11px;
+}
+
+span {
+	color:#000;
+	font-size:15px;
+}
+
+.h1{
+
+	
+	text-align: center;
+	color:black;
+	font-family: "Lucida Sans Unicode";
+	font-size:50px;
+
+}
+
+#About{
+  font-family: "Lucida Sans Unicode";
+  font-size: 20px;
+  float: left;
+
+}
+
+#About1{
+	font-family: "Lucida Sans Unicode";
+	text-align: right;
+	font-size: 15px;
+	color: #ffffff;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+  float: center;
+}
+
+#facebook{
+	float:center;
+	text-align: ;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+  float: center;
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
+  float: center;
+}
